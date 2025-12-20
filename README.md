@@ -9,7 +9,6 @@
 - 🧩 Solved programming problems on **Codeforces**
 - 🐍 Currently working with **Python & Django Framework**
 - 📱 Aim: Learn **Mobile App Development (Cross-Platform)**
-- ✨ Fun fact: I enjoy problem solving and building real-world applications
 
 ---
 
