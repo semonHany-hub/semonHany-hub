@@ -38,9 +38,7 @@
 
 ## 🌱 Currently Learning
 
-- Advanced **Django**
-- Backend best practices
-- Preparing for **Cross-Platform Mobile Development**
+- Cross-Platform Mobile Development
 
 ---
 
