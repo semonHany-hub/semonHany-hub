@@ -30,9 +30,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=semonHany-hub&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=semonHany-hub&show_icons=true&theme=dracula)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semonHany-hub&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semonHany-hub&layout=compact&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=semonHany-hub&theme=radical)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=semonHany-hub&theme=radical)](https://github.com/semonHany-hub)
 
 ---
 
