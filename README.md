@@ -42,7 +42,7 @@
 
 ## 🌱 Currently Learning
 
-- Cross-Platform Mobile Development
+- React & Django
 
 ---
 
