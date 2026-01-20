@@ -34,10 +34,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semonHany-hub&layout=compact&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=semonHany-hub&theme=radical)
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=semonHany-hub&theme=radical)](https://github.com/semonHany-hub)
-
 ---
 
 ## 🌱 Currently Learning
