@@ -38,7 +38,7 @@
 
 ## 🌱 Currently Learning
 
-- React & Django
+- React
 
 ---
 
